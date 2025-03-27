@@ -11,6 +11,8 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.5.0",
+    "@vercel/speed-insights": "^1.2.0",
     "clsx": "^2.1.1",
     "nes.css": "^2.2.1",
     "next": "15.2.3",
