@@ -1,0 +1,23 @@
+{
+  "game": {
+    "title": "Nim Spiel",
+    "sticksRemaining": "Verbleibende Stäbchen: {count}",
+    "computerTook": "Der Computer hat {count} Stäbchen genommen",
+    "computerThinking": "Der Computer denkt nach...",
+    "takeSticks": "{count} nehmen",
+    "gameOver": "Spiel vorbei!",
+    "youWon": "Du hast gewonnen!",
+    "computerWon": "Der Computer hat gewonnen!",
+    "playAgain": "Erneut spielen",
+    "changeMode": "Modus ändern",
+    "exitGame": "Spiel beenden",
+    "currentPlayer": "Aktueller Spieler: {player}",
+    "mode": "Modus: {mode}"
+  },
+  "splash": {
+    "title": "Willkommen beim Nim Spiel",
+    "description": "In diesem Spiel nehmen du und der Computer abwechselnd 1 bis 3 Stäbchen aus einem Haufen. Der Spieler, der das letzte Stäbchen nimmt, verliert.",
+    "randomMode": "Zufallsmodus",
+    "intelligentMode": "Intelligenter Modus"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "game": {
+    "title": "Nim Game",
+    "sticksRemaining": "Sticks remaining: {count}",
+    "computerTook": "{count, plural, one {Computer took 1 stick} other {Computer took {count} sticks}}",
+    "computerThinking": "Computer is thinking...",
+    "takeSticks": "Take {count}",
+    "gameOver": "Game Over!",
+    "youWon": "You won!",
+    "computerWon": "Computer won!",
+    "playAgain": "Play Again",
+    "changeMode": "Change Mode",
+    "exitGame": "Exit Game",
+    "currentPlayer": "Current player: {player}",
+    "mode": "Mode: {mode}"
+  },
+  "splash": {
+    "title": "Welcome to Nim Game",
+    "description": "In this game, you and the computer take turns removing 1 to 3 sticks from a heap. The player who takes the last stick loses.",
+    "randomMode": "Random Mode",
+    "intelligentMode": "Intelligent Mode"
+  }
+} 
